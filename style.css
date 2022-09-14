@@ -1,0 +1,61 @@
+/* changing color of body  */
+body{
+    background-color: #5CDB95;
+
+}
+
+/* header of the web page  */
+.div1{
+    height: 100px ;
+    width: 1538px ;
+    background-color: #06386B ;
+    margin: -10px 0px 0px -10px ;
+}
+
+#header{
+    margin: -70px 0px 0px 150px;
+    /* #EDF5E1  */
+    
+}
+
+
+.item{
+    font-size: 30px;
+    text-decoration: none;
+    color: #EDF5E1 ;
+    font-weight:lighter
+}
+
+.main{
+    color: #4b0d9c;
+    font-size: 25px ;
+
+}
+
+.imgch{
+    height: 500px ;
+    width: 300px ;
+    filter: blur(2px);
+}
+.imgch:hover{
+    filter: blur(0px);
+    transform: scale(1.5);
+    
+}
+
+
+.challenge-item{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(142, 76, 174);
+}
+
+.chlhead{
+    font-size: 30px;
+    color: rgb(195, 18, 18);
+}
+
+#table-content{
+    text-align: center;
+}
+
